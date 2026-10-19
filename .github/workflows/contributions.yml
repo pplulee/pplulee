@@ -1,0 +1,38 @@
+name: Update 3D contributions
+on:
+  schedule:
+    - cron: '23 20 * * *' # 04:23 Asia/Shanghai
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - 'scripts/contributions.py'
+      - '.github/workflows/contributions.yml'
+permissions:
+  contents: write
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Render contribution skyline
+        run: python scripts/contributions.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+      - name: Save updated images
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contributions-*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh contribution skyline"
+            git push
+          fi
