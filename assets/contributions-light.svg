@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="450" viewBox="0 0 1100 450" role="img" aria-labelledby="title desc">
 <title id="title">最近一年的 GitHub 贡献</title>
-<desc id="desc">1,719 次贡献，时间为 2025-11-16 至 2026-11-17。每个方块代表一天，高度使用平方根缩放。</desc>
+<desc id="desc">1,765 次贡献，时间为 2025-11-16 至 2026-11-18。每个方块代表一天，高度使用平方根缩放。</desc>
 <rect x="1" y="1" width="1098" height="448" rx="20" fill="#ffffff" stroke="#e8edf2"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#1f2937">
-<text x="42" y="52" font-size="23" font-weight="600">1,719 次贡献</text>
-<text x="42" y="78" font-size="13" fill="#6b7280">2025-11-16 — 2026-11-17</text>
+<text x="42" y="52" font-size="23" font-weight="600">1,765 次贡献</text>
+<text x="42" y="78" font-size="13" fill="#6b7280">2025-11-16 — 2026-11-18</text>
 <g><title>2025-11-16: 2 次贡献</title>
 <polygon points="132.0,174.2 146.0,176.2 146.0,198.0 132.0,196.0" fill="#059669" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="146.0,176.2 156.0,170.2 156.0,192.0 146.0,198.0" fill="#34d399" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
@@ -1745,10 +1745,10 @@
 <polygon points="937.0,298.8 947.0,292.8 947.0,325.5 937.0,331.5" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="933.0,290.8 947.0,292.8 937.0,298.8 923.0,296.8" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
-<g><title>2026-11-09: 11 次贡献</title>
-<polygon points="951.3,276.8 965.3,278.8 965.3,325.9 951.3,323.9" fill="#047857" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="965.3,278.8 975.3,272.8 975.3,319.9 965.3,325.9" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="961.3,270.8 975.3,272.8 965.3,278.8 951.3,276.8" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<g><title>2026-11-09: 26 次贡献</title>
+<polygon points="951.3,253.2 965.3,255.2 965.3,325.9 951.3,323.9" fill="#115e59" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="965.3,255.2 975.3,249.2 975.3,319.9 965.3,325.9" fill="#0d9488" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="961.3,247.2 975.3,249.2 965.3,255.2 951.3,253.2" fill="#2dd4bf" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
 <g><title>2026-11-15: 2 次贡献</title>
 <polygon points="979.6,296.4 993.6,298.4 993.6,320.2 979.6,318.2" fill="#059669" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
@@ -1775,15 +1775,15 @@
 <polygon points="925.0,306.8 935.0,300.8 935.0,333.5 925.0,339.5" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="921.0,298.8 935.0,300.8 925.0,306.8 911.0,304.8" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
-<g><title>2026-11-10: 6 次贡献</title>
-<polygon points="939.3,296.3 953.3,298.3 953.3,333.9 939.3,331.9" fill="#047857" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="953.3,298.3 963.3,292.3 963.3,327.9 953.3,333.9" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="949.3,290.3 963.3,292.3 953.3,298.3 939.3,296.3" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<g><title>2026-11-10: 12 次贡献</title>
+<polygon points="939.3,282.9 953.3,284.9 953.3,333.9 939.3,331.9" fill="#065f46" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="953.3,284.9 963.3,278.9 963.3,327.9 953.3,333.9" fill="#059669" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="949.3,276.9 963.3,278.9 953.3,284.9 939.3,282.9" fill="#34d399" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
-<g><title>2026-11-16: 11 次贡献</title>
-<polygon points="967.6,279.2 981.6,281.2 981.6,328.2 967.6,326.2" fill="#047857" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="981.6,281.2 991.6,275.2 991.6,322.2 981.6,328.2" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="977.6,273.2 991.6,275.2 981.6,281.2 967.6,279.2" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<g><title>2026-11-16: 12 次贡献</title>
+<polygon points="967.6,277.2 981.6,279.2 981.6,328.2 967.6,326.2" fill="#065f46" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="981.6,279.2 991.6,273.2 991.6,322.2 981.6,328.2" fill="#059669" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="977.6,271.2 991.6,273.2 981.6,279.2 967.6,277.2" fill="#34d399" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
 <g><title>2026-10-24: 31 次贡献</title>
 <polygon points="842.4,279.9 856.4,281.9 856.4,358.8 842.4,356.8" fill="#115e59" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
@@ -1805,10 +1805,10 @@
 <polygon points="941.3,299.0 951.3,293.0 951.3,335.9 941.3,341.9" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="937.3,291.0 951.3,293.0 941.3,299.0 927.3,297.0" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
-<g><title>2026-11-17: 3 次贡献</title>
-<polygon points="955.6,308.2 969.6,310.2 969.6,336.2 955.6,334.2" fill="#047857" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="969.6,310.2 979.6,304.2 979.6,330.2 969.6,336.2" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="965.6,302.2 979.6,304.2 969.6,310.2 955.6,308.2" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<g><title>2026-11-17: 21 次贡献</title>
+<polygon points="955.6,270.4 969.6,272.4 969.6,336.2 955.6,334.2" fill="#065f46" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="969.6,272.4 979.6,266.4 979.6,330.2 969.6,336.2" fill="#059669" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="965.6,264.4 979.6,266.4 969.6,272.4 955.6,270.4" fill="#34d399" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
 <g><title>2026-10-31: 33 次贡献</title>
 <polygon points="858.7,279.9 872.7,281.9 872.7,361.1 858.7,359.1" fill="#115e59" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
@@ -1825,15 +1825,20 @@
 <polygon points="929.3,346.9 939.3,340.9 939.3,343.9 929.3,349.9" fill="#e8edf2" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="925.3,338.9 939.3,340.9 929.3,346.9 915.3,344.9" fill="#e8edf2" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
+<g><title>2026-11-18: 4 次贡献</title>
+<polygon points="943.6,312.7 957.6,314.7 957.6,344.2 943.6,342.2" fill="#047857" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="957.6,314.7 967.6,308.7 967.6,338.2 957.6,344.2" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="953.6,306.7 967.6,308.7 957.6,314.7 943.6,312.7" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+</g>
 <g><title>2026-11-07: 34 次贡献</title>
 <polygon points="875.0,281.1 889.0,283.1 889.0,363.5 875.0,361.5" fill="#115e59" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="889.0,283.1 899.0,277.1 899.0,357.5 889.0,363.5" fill="#0d9488" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="885.0,275.1 899.0,277.1 889.0,283.1 875.0,281.1" fill="#2dd4bf" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
-<g><title>2026-11-13: 11 次贡献</title>
-<polygon points="903.3,308.8 917.3,310.8 917.3,357.9 903.3,355.9" fill="#047857" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="917.3,310.8 927.3,304.8 927.3,351.9 917.3,357.9" fill="#10b981" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="913.3,302.8 927.3,304.8 917.3,310.8 903.3,308.8" fill="#6ee7b7" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<g><title>2026-11-13: 13 次贡献</title>
+<polygon points="903.3,305.0 917.3,307.0 917.3,357.9 903.3,355.9" fill="#065f46" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="917.3,307.0 927.3,301.0 927.3,351.9 917.3,357.9" fill="#059669" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="913.3,299.0 927.3,301.0 917.3,307.0 903.3,305.0" fill="#34d399" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
 <g><title>2026-11-14: 2 次贡献</title>
 <polygon points="891.3,342.1 905.3,344.1 905.3,365.9 891.3,363.9" fill="#059669" stroke="#ffffff" stroke-width="0.5" stroke-linejoin="round"/>
