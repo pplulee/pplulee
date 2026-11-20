@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="450" viewBox="0 0 1100 450" role="img" aria-labelledby="title desc">
 <title id="title">最近一年的 GitHub 贡献</title>
-<desc id="desc">1,778 次贡献，时间为 2025-11-16 至 2026-11-19。每个方块代表一天，高度使用平方根缩放。</desc>
+<desc id="desc">1,788 次贡献，时间为 2025-11-16 至 2026-11-20。每个方块代表一天，高度使用平方根缩放。</desc>
 <rect x="1" y="1" width="1098" height="448" rx="20" fill="#0d1117" stroke="#212b36"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Microsoft YaHei,sans-serif" fill="#e6edf3">
-<text x="42" y="52" font-size="23" font-weight="600">1,778 次贡献</text>
-<text x="42" y="78" font-size="13" fill="#8b949e">2025-11-16 — 2026-11-19</text>
+<text x="42" y="52" font-size="23" font-weight="600">1,788 次贡献</text>
+<text x="42" y="78" font-size="13" fill="#8b949e">2025-11-16 — 2026-11-20</text>
 <g><title>2025-11-16: 2 次贡献</title>
 <polygon points="132.0,174.2 146.0,176.2 146.0,198.0 132.0,196.0" fill="#059669" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="146.0,176.2 156.0,170.2 156.0,192.0 146.0,198.0" fill="#34d399" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
@@ -1840,15 +1840,20 @@
 <polygon points="917.3,307.0 927.3,301.0 927.3,351.9 917.3,357.9" fill="#059669" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="913.3,299.0 927.3,301.0 917.3,307.0 903.3,305.0" fill="#34d399" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
-<g><title>2026-11-19: 3 次贡献</title>
-<polygon points="931.6,324.2 945.6,326.2 945.6,352.2 931.6,350.2" fill="#047857" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="945.6,326.2 955.6,320.2 955.6,346.2 945.6,352.2" fill="#10b981" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
-<polygon points="941.6,318.2 955.6,320.2 945.6,326.2 931.6,324.2" fill="#6ee7b7" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
+<g><title>2026-11-19: 10 次贡献</title>
+<polygon points="931.6,305.2 945.6,307.2 945.6,352.2 931.6,350.2" fill="#047857" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="945.6,307.2 955.6,301.2 955.6,346.2 945.6,352.2" fill="#10b981" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="941.6,299.2 955.6,301.2 945.6,307.2 931.6,305.2" fill="#6ee7b7" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
 <g><title>2026-11-14: 2 次贡献</title>
 <polygon points="891.3,342.1 905.3,344.1 905.3,365.9 891.3,363.9" fill="#059669" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="905.3,344.1 915.3,338.1 915.3,359.9 905.3,365.9" fill="#34d399" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
 <polygon points="901.3,336.1 915.3,338.1 905.3,344.1 891.3,342.1" fill="#a7f3d0" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
+</g>
+<g><title>2026-11-20: 3 次贡献</title>
+<polygon points="919.6,332.2 933.6,334.2 933.6,360.2 919.6,358.2" fill="#047857" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="933.6,334.2 943.6,328.2 943.6,354.2 933.6,360.2" fill="#10b981" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="929.6,326.2 943.6,328.2 933.6,334.2 919.6,332.2" fill="#6ee7b7" stroke="#0d1117" stroke-width="0.5" stroke-linejoin="round"/>
 </g>
 <text x="42" y="411" font-size="12" fill="#8b949e">每个方块代表一天</text>
 <text x="1058" y="411" text-anchor="end" font-size="12" fill="#8b949e">GitHub 贡献记录</text>
